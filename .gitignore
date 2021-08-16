@@ -2,3 +2,7 @@ node_modules
 *.log
 .nuxt
 .output
+
+# Local Netlify folder
+.netlify
+dist
